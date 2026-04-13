@@ -1,5 +1,6 @@
 {
-  "rewrites": [
-    { "source": "/lookup", "destination": "/api/lookup" }
+  "version": 2,
+  "routes": [
+    { "src": "/lookup", "dest": "/api/lookup.js" }
   ]
 }
