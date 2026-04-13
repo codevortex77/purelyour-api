@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/lookup", "dest": "/api/lookup.js" }
+  ]
+}
